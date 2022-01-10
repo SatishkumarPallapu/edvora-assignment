@@ -1,0 +1,33 @@
+.dropdown-container{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    height: 250px; 
+    width: 200px;
+    margin: 20px;
+    padding: 20px 10px 20px 10px;
+    background-color: #121212;
+    border-radius: 10px;
+}
+
+
+select{
+    width: 120px; 
+    background-color: #272227;
+    color: #fff;
+    padding: 5px;
+    font-family: "Roboto";
+    border-radius: 5px;
+}
+
+.filter-header{
+    color: #fff;
+    font-size: 24px;
+    font-family: "Roboto";
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+    font-weight: 600;
+}
+ 
